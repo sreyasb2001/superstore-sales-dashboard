@@ -40,5 +40,5 @@ SQL (MySQL), Power Query, DAX, Power BI, Excel
 - screenshots/ : dashboard images
 
 ## Dashboard preview
-![Page 1](screenshots/page1.png)
-![Page 2](screenshots/page2.png)
+![Page 1](superstore-sales-dashboard/screenshots/page1.png)
+![Page 2](superstore-sales-dashboard/screenshots/page2.png)
